@@ -1,0 +1,10 @@
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ParkSungHo/Projects/연습용/연습용/bin/Debug/연습용.exe.mdb
+/Users/ParkSungHo/Projects/연습용/연습용/bin/Debug/연습용.exe
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/연습용.exe
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/연습용.exe.mdb
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ParkSungHo/Projects/연습용/연습용/bin/Debug/연습용.exe.mdb
+/Users/ParkSungHo/Projects/연습용/연습용/bin/Debug/연습용.exe
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/연습용.exe
+/Users/ParkSungHo/Projects/연습용/연습용/obj/x86/Debug/연습용.exe.mdb
