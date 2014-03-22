@@ -35,12 +35,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ex1.cs" />
+    <Compile Include="lab4.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <None Include="lab1.cs" />
     <None Include="lab2.cs" />
     <None Include="lab3.cs" />
+    <None Include="ex1.cs" />
   </ItemGroup>
 </Project>
